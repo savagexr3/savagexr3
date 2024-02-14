@@ -24,6 +24,8 @@
 - 📫 How to reach me **xrongleee@gmail.com**
 
 - ⚡ Fun fact **Homebody coding enthusiast who finds peace in doing nothing and catching quality Z's. 💤🏡 #CodeNap**
+  
+- <a href="https://xuanronggg.wordpress.com" title="Wordpress">My first Wordpress</a>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
